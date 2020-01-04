@@ -7,7 +7,7 @@ The function's output is same with scipy which is a digital process package of p
 ### hilbert_r2c()
 
 * `input`: double array
-* `output`: complex array
+* `output`: fftw_complex array
 
 ### hilbert_r2r()
 
